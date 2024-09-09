@@ -6,7 +6,7 @@ import { BlockProp, ButtonRotateProp, MatrizProp } from "@/app/types";
 import Image from 'next/image';
 
 import Rotate90Deg from "@/app/assets/rotate-cw-svgrepo-com.svg";
-import RotateNeg90Deg from "@/app/assets/rotate-Ccw-svgrepo-com.svg";
+import RotateNeg90Deg from "@/app/assets/rotate-ccw-svgrepo-com.svg";
 import { CleanButton } from "./clean-button";
 import ShareButton from "./share-button";
 
